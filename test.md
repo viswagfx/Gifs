@@ -1,2 +1,1 @@
-
-https://media.giphy.com/media/R8sa8DLlNSCZwJyiWv/giphy-downsized-large.gif
+<iframe src="https://giphy.com/embed/R8sa8DLlNSCZwJyiWv" width="480" height="474" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/R8sa8DLlNSCZwJyiWv">via GIPHY</a></p>
